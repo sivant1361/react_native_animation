@@ -6,7 +6,7 @@ export default function App() {
 
   return (
     <View>
-      <Animated.View style={{borderRadius:200,backgroundColor:'red',height:200,width:200}}>
+      <Animated.View style={{borderRadius:200,backgroundColor:'red',height:100,width:100}}>
 
       </Animated.View>
 
